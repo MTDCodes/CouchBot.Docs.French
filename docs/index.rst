@@ -35,13 +35,13 @@ Let your Discord community know when you go live!
 Want to let your friends know when you publish a new YouTube Video? 
 Want to make a list of your favorite streamers, and get notified when they go live? CouchBot does that too!
 
-- `Steam <https://steamcommunity.com>`__
-- `Picarto <https://picarto.tv>`__
-- `Twitch <https://twitch.tv>`__
-- `YouTube <https://youtube.com>`__
-- `Trovo <https://trovo.tv>`__
 - `Glimesh <https://glimesh.tv>`__
+- `Picarto <https://picarto.tv>`__
+- `Piczel <https://piczel.tv>`__
+- `Twitch <https://twitch.tv>`__
+- `Trovo <https://trovo.tv>`__
 - `Theta.tv <https://theta.tv>`__
+- `YouTube <https://youtube.com>`__
 
 .. toctree::
     :maxdepth: 3
